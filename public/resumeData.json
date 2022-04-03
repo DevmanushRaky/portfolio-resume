@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name": "Rakesh ",
+    "occupation": "Web Develpoer",
+    "description": "I love ReactJs. ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Rakesh! You might also know me raky. I've been coding for over 1+ year now. As a web developer,I have created many other projects and worked with Cyber Flow (organization) as Frontend Devloper.I am trying to learn ReactJs and want to be a full stack devloper this is my goal and I am sure you will help me  .Thank you for your Attention",
+    "contactmessage": "Get in touch with me to be a part of WD Community!",
+    "email": "rakesucluci@gmail.com",
+    "phone": "+919936641565",
+    "address": {
+      "street": " ",
+      "city": "SULTANPUR",
+      "state": "UTTAR PRADESH",
+      "zip": " "
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "./resume/MyResume.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCI2MQbWBeb8Qw_N3WOg2ojw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100011245335006",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rakesh-yadav-55565320b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/devmanush_raky/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DevmanushRaky",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "KNIPSS Engineering Institute, SULTANPUR",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Pursuing",
+        "description": "#3rd Year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cyber Flow (Organization)",
+        "title": "Frontend Developer",
+        "years": "25oct2021 - 20Jan2022",
+        "description": "I was working here as frontend developer for learn more possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "45%"
+      },
+      {
+        "name": "Html",
+        "level": "70%"
+      },
+      {
+        "name": "Css",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "C",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Github",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap-4",
+        "level": "60%"
+      },
+      {
+        "name": "MS-Office",
+        "level": "80%"
+      },
+      {
+        "name": "MS-PowerPoint",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "This is fulll functionality and responsive",
+        "image": "download.jpg",
+        "url": "https://clone-15917.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "Fetching movie API and full responsive",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-42ea9.web.app/"
+      },
+     
+      {
+        "title": "Work Sample 1",
+        "category": "Full Responsive using Html,Css,Js,Bootstrap",
+        "image": "WorkSample1.png",
+        "url": "https://skillfyraky.netlify.app/"
+      },
+      {
+        "title": "Work Sample 3",
+        "category": "created this using Html,Css,Js,Bootstrap",
+        "image": "WorkSample3.png",
+        "url": "https://worksample2.netlify.app/"
+      },
+      {
+        "title": "Work Sample 2",
+        "category": "Full Responsive using Html,Css,Js,Bootstrap",
+        "image": "WorkSample2.png",
+        "url": "https://joeyraky.netlify.app/"
+      },
+      {
+        "title": "Sorting Visualizer (React JS)",
+        "category": "Learn sorting techniques easily",
+        "image": "sorting.png",
+        "url": "https://sortingraky.netlify.app/"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The site is looking fantastic and am very pleased with your work so far.",
+        "user": "Abhishek patel"
+      },
+      {
+        "text": "Many thanks for all your help with the design of food card - it was much appreciated and I am very happy with it.",
+        "user": "Sharad Bajpeyi"
+      },
+      {
+        "text": "Thanks again for the work you have done, it looks fantastic thank you! I do really appreciate it.",
+        "user": "Cyber Flow (organization)"
+      },
+      {
+        "text": "Website without visitors is like a ship lost in the horizon.",
+        "user": "Dr. Christopher Dayagdag"
+      }
+    ]
+  }
+}
