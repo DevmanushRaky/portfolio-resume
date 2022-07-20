@@ -2,10 +2,10 @@
   "main": {
     "name": "Rakesh ",
     "occupation": "Web Develpoer",
-    "description": "I love ReactJs. ",
+    "description": "I am also know Core Java. ",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Rakesh! You might also know me raky. I've been coding for over 1+ year now. As a web developer,I have created many other projects and worked with Cyber Flow (organization) as Frontend Devloper.I am trying to learn ReactJs and want to be a full stack devloper this is my goal and I am sure you will help me  .Thank you for your Attention",
-    "contactmessage": "Get in touch with me to be a part of WD Community!",
+    "bio": "Hi there! I am Rakesh! You might also know me raky. I am a self taught Web Developer. I have good knowledge of Html, Css, JavaScript and Bootstrap. Creating design layouts and UI is something I enjoy. I have not done any internship in web Development so far but I like to keep trying things on my own like creating Web Application for different scenarios and dummy projects for different organisations etc. You can see my projects on Github or work section.I wish to explore my strength and weaknesses and learn more about Web Development under a highly professional team. I assure that I will give my best if I get hired for your organisation.I want to be a full stack devloper this is my goal and I am sure you will help me.Thank you for your Attention",
+    "contactmessage": "Get in touch with me to be a part of Web Developer Community!",
     "email": "rakesucluci@gmail.com",
     "phone": "+919936641565",
     "address": {
@@ -14,12 +14,12 @@
       "state": "UTTAR PRADESH",
       "zip": " "
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://devmanushraky.netlify.app/",
     "resumedownload": "./resume/MyResume.pdf",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCI2MQbWBeb8Qw_N3WOg2ojw",
+        "url": "https://www.youtube.com/c/Devmanushraky/",
         "className": "fa fa-youtube"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devmanush_raky/",
+        "url": "https://www.instagram.com/react_raky/",
         "className": "fa fa-instagram"
       },
       {
@@ -51,15 +51,15 @@
         "school": "KNIPSS Engineering Institute, SULTANPUR",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "Pursuing",
-        "description": "#3rd Year"
+        "description": "#4th Year"
       }
     ],
-    "work": [
+    "training": [
       {
-        "company": "Cyber Flow (Organization)",
-        "title": "Frontend Developer",
-        "years": "25oct2021 - 20Jan2022",
-        "description": "I was working here as frontend developer for learn more possible."
+        "Institute":"Naresh i Technology",
+        "title": "Core Java (OOPS Programmer)",
+        "Duration": "july2022 to september 2022",
+        "description": "I learn Core Java to gain more knowledge and enhance my skill to understanding how Object-Oriented Programming works ."
       }
     ],
     "skills": [
@@ -69,30 +69,26 @@
       },
       {
         "name": "Html",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Css",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
         "level": "50%"
       },
       {
-        "name": "C",
-        "level": "50%"
-      },
-      {
-        "name": "Java",
+        "name": "Core Java",
         "level": "60%"
       },
       {
         "name": "Github",
-        "level": "40%"
+        "level": "60%"
       },
       {
-        "name": "Bootstrap-4",
+        "name": "Bootstrap",
         "level": "60%"
       },
       {
@@ -102,11 +98,8 @@
       {
         "name": "MS-PowerPoint",
         "level": "80%"
-      },
-      {
-        "name": "Web Development",
-        "level": "60%"
       }
+      
     ]
   },
   "portfolio": {
@@ -154,7 +147,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "The site is looking fantastic and am very pleased with your work so far.",
+        "text": "Your contibution of our sorting algo project to develope frontend I am very pleased with your work so far, You are just Amazing.",
         "user": "Abhishek patel"
       },
       {
